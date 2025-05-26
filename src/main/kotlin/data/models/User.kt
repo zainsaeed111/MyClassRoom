@@ -1,6 +1,6 @@
-package com.myclassroom.data
+package com.myclassroom.data.models
 
-import kotlinx.serialization.Contextual
+import com.myclassroom.data.enums.UserRole
 import kotlinx.serialization.Serializable
 import org.mindrot.jbcrypt.BCrypt
 import java.time.LocalDateTime

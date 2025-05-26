@@ -1,9 +1,9 @@
 package repositories.implementations
 
-import com.myclassroom.data.User
-import com.myclassroom.data.tables.UsersTable
+import com.myclassroom.data.models.User
+import tables.UsersTable
 import com.myclassroom.db.dbQuery
-import com.myclassroom.repositories.UserRepository
+import com.myclassroom.repositories.repositories.UserRepository
 import org.jetbrains.exposed.sql.insert
 import org.jetbrains.exposed.sql.select
 
@@ -11,7 +11,6 @@ class UserRepositoryImpl : UserRepository {
 
     override suspend fun createUser(user: User): Boolean = dbQuery {
         UsersTable.insert {
-//            it[userId] = user.userId ?: 0  // Let auto-increment handle it if null
             it[fullName] = user.fullName
             it[userName] = user.userName
             it[email] = user.email

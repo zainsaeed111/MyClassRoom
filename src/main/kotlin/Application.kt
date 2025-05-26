@@ -2,6 +2,9 @@ package com.myclassroom
 
 import com.myclassroom.config.JwtConfig
 import com.myclassroom.db.DatabaseFactory
+import com.myclassroom.domain.ClassroomService
+import com.myclassroom.repository.implementation.CreateClassRepoImpl
+import com.myclassroom.routes.classroomRoutes
 import domain.AuthService
 import io.ktor.serialization.kotlinx.json.json
 import io.ktor.server.application.*
@@ -23,8 +26,10 @@ fun Application.module() {
     DatabaseFactory.init()
     val userRepo = UserRepositoryImpl()
     val authService = AuthService(userRepo)
-
+ val classRoomRepo= CreateClassRepoImpl()
+    val classRoomService = ClassroomService(classRoomRepo)
     routing {
         authRoutes(authService)
+        classroomRoutes(classRoomService)
     }
 }

@@ -1,4 +1,4 @@
-package com.myclassroom.data
+package com.myclassroom.data.enums
 
 import kotlinx.serialization.Serializable
 

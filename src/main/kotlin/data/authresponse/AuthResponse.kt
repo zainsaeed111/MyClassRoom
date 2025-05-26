@@ -1,12 +1,12 @@
-package data
+package com.myclassroom.data.authresponse
 
-import com.myclassroom.data.UserRole
-import kotlinx.serialization.Contextual
+import com.myclassroom.data.models.User
+import com.myclassroom.data.enums.UserRole
 import kotlinx.serialization.Serializable
 import java.time.LocalDateTime
 
 @Serializable
-data class UserData(
+data class AuthResponse(
     val userId: Long?,
     val fullName: String,
     val userName: String,
@@ -17,7 +17,7 @@ data class UserData(
     val createdAt: LocalDateTime
 ) {
     companion object {
-        fun toResponse(user: com.myclassroom.data.User): UserData = UserData(
+        fun toResponse(user: User): AuthResponse = AuthResponse(
             userId = user.userId,
             fullName = user.fullName,
             userName = user.userName,

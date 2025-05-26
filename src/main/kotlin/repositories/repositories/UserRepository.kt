@@ -1,6 +1,6 @@
-package com.myclassroom.repositories
+package com.myclassroom.repositories.repositories
 
-import com.myclassroom.data.User
+import com.myclassroom.data.models.User
 
 interface UserRepository {
     suspend fun createUser(user: User): Boolean

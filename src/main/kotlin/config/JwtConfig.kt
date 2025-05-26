@@ -2,7 +2,7 @@ package com.myclassroom.config
 
 import com.auth0.jwt.JWT
 import com.auth0.jwt.algorithms.Algorithm
-import com.myclassroom.data.User
+import com.myclassroom.data.models.User
 import java.util.*
 
 object JwtConfig {

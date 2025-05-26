@@ -1,5 +1,6 @@
-package com.myclassroom.data
+package requests
 
+import com.myclassroom.data.enums.UserRole
 import kotlinx.serialization.Serializable
 
 @Serializable
