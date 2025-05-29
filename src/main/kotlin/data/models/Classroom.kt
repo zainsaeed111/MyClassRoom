@@ -11,6 +11,7 @@ data class Classroom(
     val classSection: String?,
     val classImageUrl: String?,
     val classCode: String,
-    val createdBy: Long,
+    val createdBy: User,
+    val enrolledStudents: ArrayList<User>?=arrayListOf(),
     @Serializable(with = LocalDateTimeSerializer::class)
     val createdAt: LocalDateTime? = LocalDateTime.now())

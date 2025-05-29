@@ -12,7 +12,6 @@ object UsersTable : Table("users") {
     val email = varchar("email", 100).nullable()
     val phoneNumber = varchar("phone_number", 15).nullable()
     val password = varchar("password", 100).nullable()
-    val createdBy = long("created_by").references(UsersTable.userId)
     val userRole = enumerationByName("user_role", 20, UserRole::class).nullable()
     val createdAt = datetime("created_at").defaultExpression(CurrentDateTime) // ✅ use singleton
     override val primaryKey = PrimaryKey(userId)

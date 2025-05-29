@@ -1,5 +1,6 @@
 package com.myclassroom.db
 
+import com.myclassroom.tables.EnrolledStudentsTable
 import tables.UsersTable
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -19,6 +20,7 @@ object DatabaseFactory {
         transaction {
             SchemaUtils.create(UsersTable)
             SchemaUtils.createMissingTablesAndColumns(Classrooms)
+            SchemaUtils.createMissingTablesAndColumns(EnrolledStudentsTable)
 
         }
     }

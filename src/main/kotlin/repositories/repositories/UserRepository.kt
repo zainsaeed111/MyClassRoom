@@ -4,5 +4,6 @@ import com.myclassroom.data.models.User
 
 interface UserRepository {
     suspend fun createUser(user: User): Boolean
-    suspend fun findUserByEmail(email: String): User?
+    suspend fun findUserByEmail(email: String?): User?
+    suspend fun getUserById(userId: Long): User?
 }

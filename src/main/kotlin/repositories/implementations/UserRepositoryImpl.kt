@@ -20,7 +20,7 @@ class UserRepositoryImpl : UserRepository {
         }.insertedCount > 0
     }
 
-    override suspend fun findUserByEmail(email: String): User? = dbQuery {
+    override suspend fun findUserByEmail(email: String?): User? = dbQuery {
         UsersTable.select { UsersTable.email eq email }
             .mapNotNull { row ->
                 User(
@@ -36,4 +36,19 @@ class UserRepositoryImpl : UserRepository {
             }
             .singleOrNull()
     }
-}
+
+    override suspend fun getUserById(userId: Long): User? = dbQuery {
+        UsersTable.select { UsersTable.userId eq userId }
+            .singleOrNull()?.let { row ->
+                User(
+                    userId = row[UsersTable.userId],
+                    fullName = row[UsersTable.fullName],
+                    userName = row[UsersTable.userName],
+                    email = row[UsersTable.email],
+                    phoneNumber = row[UsersTable.phoneNumber],
+                    password = null, // Exclude password for security
+                    userRole = row[UsersTable.userRole],
+                    createdAt = row[UsersTable.createdAt]
+                )
+            }
+    }}

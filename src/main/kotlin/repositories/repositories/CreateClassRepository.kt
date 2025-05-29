@@ -7,6 +7,8 @@ interface CreateClassRepository {
     suspend fun getAllClasses(): List<Classroom>
     suspend fun getClassById(classId: Long): Classroom?
     suspend fun getClassByCode(classCode: String): Classroom?
+    suspend fun getClassByTitleAndSubject(title: String, subject: String): Classroom?
+
 
 
 
