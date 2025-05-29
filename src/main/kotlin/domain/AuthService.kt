@@ -58,6 +58,10 @@ class AuthService(private val userRepo: UserRepository) {
 
 
 
+
+
+
+
     suspend fun userLogin(loginReq: LoginReq): BaseResponse<AuthBaseResponse>{
         val user=userRepo.findUserByEmail(loginReq.email)?:return BaseResponse(false,"User not found")
 

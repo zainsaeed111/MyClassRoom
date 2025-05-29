@@ -30,6 +30,6 @@ fun Application.module() {
     val classRoomService = ClassroomService(classRoomRepo)
     routing {
         authRoutes(authService)
-        classroomRoutes(classRoomService)
+        classroomRoutes(classRoomService,userRepo)
     }
 }

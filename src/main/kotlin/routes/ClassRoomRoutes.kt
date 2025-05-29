@@ -1,49 +1,52 @@
 package com.myclassroom.routes
-
 import com.myclassroom.data.base.BaseResponse
-import com.myclassroom.data.models.Classroom
 import com.myclassroom.domain.ClassroomService
+import com.myclassroom.repositories.repositories.UserRepository
 import com.myclassroom.requests.CreateClassRequest
-import io.ktor.server.application.*
+import io.ktor.http.*
+import io.ktor.server.auth.*
+import io.ktor.server.auth.jwt.*
 import io.ktor.server.request.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
 
-fun Route.classroomRoutes(classroomService: ClassroomService) {
-
+fun Route.classroomRoutes(classroomService: ClassroomService, userRepository: UserRepository) {
     route("/classroom") {
+        authenticate("jwt") {
+            post("/create") {
+                // Extract user ID from JWT
+                val principal = call.principal<JWTPrincipal>()
+                val userId = principal?.payload?.getClaim("userId")?.asLong()
+                    ?: return@post call.respond(
+                        HttpStatusCode.Unauthorized,
+                        BaseResponse(false, "Invalid or missing JWT token", null)
+                    )
 
-        post("/create") {
-            val classroom = call.receive<CreateClassRequest>()
-            val response = classroomService.createClassroom(classroom)
-            call.respond(response)
-        }
+                // Fetch user from database
+                val user = userRepository.getUserById(userId)
+                    ?: return@post call.respond(
+                        HttpStatusCode.Unauthorized,
+                        BaseResponse(false, "User not found", null)
+                    )
 
-        get("/all") {
-            val response = classroomService.getAllClassrooms()
-            call.respond(response)
-        }
+                // Receive request body
+                val request = try {
+                    call.receive<CreateClassRequest>()
+                } catch (e: Exception) {
+                    return@post call.respond(
+                        HttpStatusCode.BadRequest,
+                        BaseResponse(false, "Invalid request body: ${e.localizedMessage}", null)
+                    )
+                }
 
-        get("/{id}") {
-            val id = call.parameters["id"]?.toLongOrNull()
-            if (id == null) {
-                call.respond(BaseResponse<Unit>(false, "Invalid classroom ID"))
-                return@get
+                // Call service
+                val response = classroomService.createClassroom(request, user)
+                // Set HTTP status based on response.success
+                call.respond(
+                    if (response.success) HttpStatusCode.OK else HttpStatusCode.BadRequest,
+                    response
+                )
             }
-
-            val response = classroomService.getClassroomById(id)
-            call.respond(response)
-        }
-
-        delete("/{id}") {
-            val id = call.parameters["id"]?.toLongOrNull()
-            if (id == null) {
-                call.respond(BaseResponse<Unit>(false, "Invalid classroom ID"))
-                return@delete
-            }
-
-            val response = classroomService.deleteClassroom(id)
-            call.respond(response)
         }
     }
 }

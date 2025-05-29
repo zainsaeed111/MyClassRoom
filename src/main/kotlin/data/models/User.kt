@@ -8,12 +8,12 @@ import java.time.LocalDateTime
 @Serializable
 data class User(
     val userId: Long? = null,
-    val fullName: String,
-    val userName: String,
-    val email: String,
+    val fullName: String?,
+    val userName: String?,
+    val email: String?,
     val phoneNumber: String? = null,
-    val password: String,
-    val userRole: UserRole,
+    val password: String?=null,
+    val userRole: UserRole?,
     @Serializable(with = LocalDateTimeSerializer::class)
     val createdAt: LocalDateTime? = LocalDateTime.now()
 ) {

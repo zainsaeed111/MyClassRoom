@@ -24,7 +24,7 @@ object JwtConfig {
             .withIssuer(issuer)
             .withClaim("userId", user.userId)
             .withClaim("email", user.email)
-            .withClaim("role", user.userRole.name)
+            .withClaim("role", user.userRole?.name)
             .withExpiresAt(Date(System.currentTimeMillis() + expiryMs))
             .sign(algorithm)
     }
