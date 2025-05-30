@@ -12,10 +12,10 @@ import tables.Classrooms
 object DatabaseFactory {
     fun init() {
         Database.connect(
-            url = "jdbc:postgresql://localhost:5432/MyClassRoom",
+            url = "jdbc:postgresql://localhost:5432/classloom",
             driver = "org.postgresql.Driver",
             user = "postgres",
-            password = "12345"
+            password = "123"
         )
         transaction {
             SchemaUtils.create(UsersTable)

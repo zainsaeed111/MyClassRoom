@@ -13,6 +13,15 @@ object UsersTable : Table("users") {
     val phoneNumber = varchar("phone_number", 15).nullable()
     val password = varchar("password", 100).nullable()
     val userRole = enumerationByName("user_role", 20, UserRole::class).nullable()
-    val createdAt = datetime("created_at").defaultExpression(CurrentDateTime) // ✅ use singleton
+    val createdAt = datetime("created_at").defaultExpression(CurrentDateTime)
+    val organizationName = varchar("organization_name", 150).nullable()
+    val organizationEmail = varchar("organization_email", 150).nullable()
+    val organizationType = varchar("organization_type", 100).nullable()
+
+    val plan = varchar("plan", 50).default("trial")
+    val startDate = datetime("start_date")
+    val endDate = datetime("end_date")
+    val isActive = bool("is_active").default(true)
+
     override val primaryKey = PrimaryKey(userId)
 }

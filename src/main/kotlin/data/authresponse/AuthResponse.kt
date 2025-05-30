@@ -13,6 +13,9 @@ data class AuthResponse(
     val email: String?,
     val phoneNumber: String?,
     val userRole: UserRole?,
+    val organizationName: String?,
+    val organizationEmail: String?,
+    val organizationType: String?,
     @Serializable(with = LocalDateTimeSerializer::class)
     val createdAt: LocalDateTime
 ) {
@@ -24,7 +27,10 @@ data class AuthResponse(
             email = user.email,
             phoneNumber = user.phoneNumber,
             userRole = user.userRole,
-            createdAt = user.createdAt?: LocalDateTime.now(),
+            organizationName = user.organizationName,
+            organizationEmail = user.organizationEmail,
+            organizationType = user.organizationType,
+            createdAt = user.createdAt ?: LocalDateTime.now(),
         )
     }
 }

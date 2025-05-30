@@ -7,6 +7,7 @@ import requests.UserRegisterRequest
 import com.myclassroom.data.models.User
 import com.myclassroom.repositories.repositories.UserRepository
 import com.myclassroom.data.authresponse.AuthResponse
+import com.myclassroom.data.authresponse.AuthSubscription
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.mindrot.jbcrypt.BCrypt
@@ -34,7 +35,11 @@ class AuthService(private val userRepo: UserRepository) {
                 phoneNumber = req.phoneNumber,
                 password = req.password,
                 userRole = req.userRole,
-                createdAt = LocalDateTime.now()
+                createdAt = LocalDateTime.now(),
+                        organizationName = req.organizationName,
+                organizationEmail = req.organizationEmail,
+                organizationType = req.organizationType,
+                subscription = AuthSubscription.default()
             ).withHashedPassword()
 
             val isCreated = userRepo.createUser(user)
