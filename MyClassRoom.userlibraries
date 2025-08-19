@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="kotlin-gradle-plugin-model-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-model/2.1.10/8d3be31114b937c350640140321fe133e08554fd/kotlin-gradle-plugin-model-2.1.10.jar" />
+  </library>
+  <library name="utils-0.10.6.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/utils/0.10.6/e636bedaad6537f6184705720362b8cabd5939ea/utils-0.10.6.jar" />
+  </library>
+  <library name="commons-lang3-3.14.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.14.0/1ed471194b02f2c6cb734a0cd6f6f107c673afae/commons-lang3-3.14.0.jar" />
+  </library>
+  <library name="kotlin-util-io-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-io/2.1.10/f6050b620688c8a0ae2ec9197b2174a9e8753276/kotlin-util-io-2.1.10.jar" />
+  </library>
+  <library name="google-auth-library-oauth2-http-1.10.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-oauth2-http/1.10.0/4eb85f801b8424f9ba440a8520023e390135658c/google-auth-library-oauth2-http-1.10.0.jar" />
+  </library>
+  <library name="plexus-utils-4.0.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-utils/4.0.2/9526a9548b302572f23337fcc217fb4cc713b9c3/plexus-utils-4.0.2.jar" />
+  </library>
+  <library name="asm-9.7.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.7.1/f0ed132a49244b042cd0e15702ab9f2ce3cc8436/asm-9.7.1.jar" />
+  </library>
+  <library name="jackson-databind-2.15.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.15.2/9353b021f10c307c00328f52090de2bdb4b6ff9c/jackson-databind-2.15.2.jar" />
+  </library>
+  <library name="google-http-client-1.42.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.42.2/6d6ab266972f0afc6987fe3b88ce321179515fa3/google-http-client-1.42.2.jar" />
+  </library>
+  <library name="j2objc-annotations-2.8.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/2.8/c85270e307e7b822f1086b93689124b89768e273/j2objc-annotations-2.8.jar" />
+  </library>
+  <library name="opencensus-contrib-http-util-0.31.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-contrib-http-util/0.31.1/3c13fc5715231fadb16a9b74a44d9d59c460cfa8/opencensus-contrib-http-util-0.31.1.jar" />
+  </library>
+  <library name="jsr305-3.0.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+  </library>
+  <library name="kotlin-daemon-client-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-client/2.1.10/f6261f723952df0327291dae333ec23b58180f56/kotlin-daemon-client-2.1.10.jar" />
+  </library>
+  <library name="kotlin-stdlib-1.9.10.jar.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/72812e8a368917ab5c0a5081b56915ffdfec93b7/kotlin-stdlib-1.9.10.jar" />
+  </library>
+  <library name="woodstox-core-6.5.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.woodstox/woodstox-core/6.5.1/c6e52e84fe959e69a243c83ec7d24cd889444ddf/woodstox-core-6.5.1.jar" />
+  </library>
+  <library name="log4j-core-2.24.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.24.1/c85285146f28d8c8962384f786e2dff04172fb43/log4j-core-2.24.1.jar" />
+  </library>
+  <library name="kotlin-util-klib-metadata-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib-metadata/2.1.10/3cbf1aad1a5bf3718f9cf86d39cbbdad6dc51414/kotlin-util-klib-metadata-2.1.10.jar" />
+  </library>
+  <library name="kotlin-compiler-runner-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-runner/2.1.10/1c1f3ab4265d15190326501bf49f078a3d06023f/kotlin-compiler-runner-2.1.10.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-idea-proto-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea-proto/2.1.10/336738cda2aff3e609d65003989133f2afb9b0a9/kotlin-gradle-plugin-idea-proto-2.1.10.jar" />
+  </library>
+  <library name="commons-logging-1.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+  </library>
+  <library name="maven-xml-impl-4.0.0-alpha-9.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-xml-impl/4.0.0-alpha-9/1ce26ef01fb26c663073fa6dcef50bb2dbcc170a/maven-xml-impl-4.0.0-alpha-9.jar" />
+  </library>
+  <library name="kotlin-native-utils-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/2.1.10/dca6751ffc90039d0cbce6a8eb0208443560f64/kotlin-native-utils-2.1.10.jar" />
+  </library>
+  <library name="checker-qual-3.33.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/de2b60b62da487644fc11f734e73c8b0b431238f/checker-qual-3.33.0.jar" />
+  </library>
+  <library name="jdom2-2.0.6.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6.1/dc15dff8f701b227ee523eeb7a17f77c10eafe2f/jdom2-2.0.6.1.jar" />
+  </library>
+  <library name="commons-compress-1.26.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.26.0/659feffdd12280201c8aacb8f7be94f9a883c824/commons-compress-1.26.0.jar" />
+  </library>
+  <library name="httpclient-4.5.13.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar" />
+  </library>
+  <library name="asm-tree-9.7.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.7.1/3a53139787663b139de76b627fca0084ab60d32c/asm-tree-9.7.1.jar" />
+  </library>
+  <library name="jackson-annotations-2.15.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.15.2/4724a65ac8e8d156a24898d50fd5dbd3642870b8/jackson-annotations-2.15.2.jar" />
+  </library>
+  <library name="jackson-datatype-jsr310-2.15.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.15.2/30d16ec2aef6d8094c5e2dce1d95034ca8b6cb42/jackson-datatype-jsr310-2.15.2.jar" />
+  </library>
+  <library name="jdependency-2.12.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.vafer/jdependency/2.12/cf3396ee09c7b683f7925d9f84ae0dae0275680/jdependency-2.12.jar" />
+  </library>
+  <library name="gson-2.9.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.9.0/8a1167e089096758b49f9b34066ef98b2f4b37aa/gson-2.9.0.jar" />
+  </library>
+  <library name="auto-value-annotations-1.9.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.auto.value/auto-value-annotations/1.9/25a0fcef915f663679fcdb447541c5d86a9be4ba/auto-value-annotations-1.9.jar" />
+  </library>
+  <library name="plugin-3.1.3.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor.plugin/plugin/3.1.3/9387fff6eb359b21b6efdcfa8a1dd3ae07cf894a/plugin-3.1.3.jar" />
+  </library>
+  <library name="openjson-1.0.13.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.github.openjson/openjson/1.0.13/5d8680701bca3954f80e8b94b243c84a5831088e/openjson-1.0.13.jar" />
+  </library>
+  <library name="annotations-13.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
+  </library>
+  <library name="native-gradle-plugin-0.10.6.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/native-gradle-plugin/0.10.6/fe108d6e67cae66b13fd3825125a1983dd91710d/native-gradle-plugin-0.10.6.jar" />
+  </library>
+  <library name="stax2-api-4.2.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.codehaus.woodstox/stax2-api/4.2.1/a3f7325c52240418c2ba257b103c3c550e140c83/stax2-api-4.2.1.jar" />
+  </library>
+  <library name="grpc-context-1.27.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.grpc/grpc-context/1.27.2/1789190601b7a5361e4fa52b6bc95ec2cd71e854/grpc-context-1.27.2.jar" />
+  </library>
+  <library name="kotlin-klib-commonizer-api-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-klib-commonizer-api/2.1.10/1c728e8960e76e54e1dc287f3df32896358443c1/kotlin-klib-commonizer-api-2.1.10.jar" />
+  </library>
+  <library name="maven-api-xml-4.0.0-alpha-9.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-api-xml/4.0.0-alpha-9/b3c6e54002f8ec8df8c913b7ae36998ff4418d97/maven-api-xml-4.0.0-alpha-9.jar" />
+  </library>
+  <library name="shadow-gradle-plugin-8.3.6.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.gradleup.shadow/shadow-gradle-plugin/8.3.6/ff5e250da1a3b935c85246e2ac5af562bc53599c/shadow-gradle-plugin-8.3.6.jar" />
+  </library>
+  <library name="httpcore-4.4.15.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar" />
+  </library>
+  <library name="kotlinx-coroutines-core-jvm-1.6.4.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.4/2c997cd1c0ef33f3e751d3831929aeff1390cb30/kotlinx-coroutines-core-jvm-1.6.4.jar" />
+  </library>
+  <library name="commons-io-2.17.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.17.0/ddcc8433eb019fb48fe25207c0278143f3e1d7e2/commons-io-2.17.0.jar" />
+  </library>
+  <library name="ant-launcher-1.10.15.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant-launcher/1.10.15/81431ce614ae38b187de683381f4a35a1db3b1c6/ant-launcher-1.10.15.jar" />
+  </library>
+  <library name="guava-32.1.2-jre.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/32.1.2-jre/5e64ec7e056456bef3a4bc4c6fdaef71e8ab6318/guava-32.1.2-jre.jar" />
+  </library>
+  <library name="jackson-core-2.15.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.15.2/a6fe1836469a69b3ff66037c324d75fc66ef137c/jackson-core-2.15.2.jar" />
+  </library>
+  <library name="jib-build-plan-0.4.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.cloud.tools/jib-build-plan/0.4.0/b16394e7eda9aeff338841c6dc47ed5a8a9d8120/jib-build-plan-0.4.0.jar" />
+  </library>
+  <library name="kotlin-build-tools-api-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-tools-api/2.1.10/3a7443c08605fcf6a4f9fafa62ec62adf4014805/kotlin-build-tools-api-2.1.10.jar" />
+  </library>
+  <library name="graalvm-reachability-metadata-0.10.6.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/graalvm-reachability-metadata/0.10.6/ea3cf9515053da6b4c8f2b32578c68df4d1a32c3/graalvm-reachability-metadata-0.10.6.jar" />
+  </library>
+  <library name="ant-1.10.15.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.ant/ant/1.10.15/da854f5503ee061a5a3b2cfcbe98ee27aa4a5ef9/ant-1.10.15.jar" />
+  </library>
+  <library name="failureaccess-1.0.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+  </library>
+  <library name="listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/b421526c5f297295adef1c886e5246c39d4ac629/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" />
+  </library>
+  <library name="kotlin-tooling-core-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-tooling-core/2.1.10/9055094879c715b1c39945150156f2e876ae7438/kotlin-tooling-core-2.1.10.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-api-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/2.1.10/33105bacb6ae178da466e422dc4e71d0e07aa934/kotlin-gradle-plugin-api-2.1.10.jar" />
+  </library>
+  <library name="classes.2">
+    <archive path="C:/Users/kodex/.gradle/caches/8.4/kotlin-dsl/accessors/b9688cd06edd31b5bac45f0f5c2423b0-PS/classes" />
+  </library>
+  <library name="classes">
+    <archive path="C:/Users/kodex/.gradle/caches/8.4/kotlin-dsl/accessors/6f5a6f0871487d2c849aec4adf7acff0/classes" />
+  </library>
+  <library name="jib-gradle-plugin-3.4.5.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.cloud.tools/jib-gradle-plugin/3.4.5/1157026ec0d903cfca991d3c260a7b4c5d4aeb1c/jib-gradle-plugin-3.4.5.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-2.1.10-gradle82.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin/2.1.10/e72cad44e295e3aa3ff9f92319a1189b3d65a2a6/kotlin-gradle-plugin-2.1.10-gradle82.jar" />
+  </library>
+  <library name="kotlin-stdlib-common-1.9.10.jar.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/dafaf2c27f27c09220cee312df10917d9a5d97ce/kotlin-stdlib-common-1.9.10.jar" />
+  </library>
+  <library name="commons-codec-1.11.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" />
+  </library>
+  <library name="opencensus-api-0.31.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.opencensus/opencensus-api/0.31.1/66a60c7201c2b8b20ce495f0295b32bb0ccbbc57/opencensus-api-0.31.1.jar" />
+  </library>
+  <library name="kotlin-util-klib-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-util-klib/2.1.10/552632250d032305a669e4f03155d0d1c211b9fe/kotlin-util-klib-2.1.10.jar" />
+  </library>
+  <library name="google-http-client-apache-v2-1.42.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-apache-v2/1.42.2/d89fc070f427f8200b7401cda1ed4ce3004ec58d/google-http-client-apache-v2-1.42.2.jar" />
+  </library>
+  <library name="plexus-xml-4.0.4.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-xml/4.0.4/81419c08701143a41034b410b208dc45fc7cd476/plexus-xml-4.0.4.jar" />
+  </library>
+  <library name="jib-plugins-extension-common-0.2.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.cloud.tools/jib-plugins-extension-common/0.2.0/dd6b0e6412a5c9b59f9964a2389d8e0577e65d3f/jib-plugins-extension-common-0.2.0.jar" />
+  </library>
+  <library name="jib-gradle-plugin-extension-api-0.4.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.cloud.tools/jib-gradle-plugin-extension-api/0.4.0/e20368cf494d5b560b38b4bbe7634fef183491eb/jib-gradle-plugin-extension-api-0.4.0.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-annotations-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-annotations/2.1.10/e6695889c7fec701674e653ec844cc6f16f4d2eb/kotlin-gradle-plugin-annotations-2.1.10.jar" />
+  </library>
+  <library name="asm-commons-9.7.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.7.1/406c6a2225cfe1819f102a161e54cc16a5c24f75/asm-commons-9.7.1.jar" />
+  </library>
+  <library name="google-auth-library-credentials-1.10.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.auth/google-auth-library-credentials/1.10.0/ca4b2f754fa3abfcb57a3f8e56b153a2277d00b2/google-auth-library-credentials-1.10.0.jar" />
+  </library>
+  <library name="log4j-api-2.24.1.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.24.1/7ebeb12c20606373005af4232cd0ecca72613dda/log4j-api-2.24.1.jar" />
+  </library>
+  <library name="error_prone_annotations-2.18.0.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/89b684257096f548fa39a7df9fdaa409d4d4df91/error_prone_annotations-2.18.0.jar" />
+  </library>
+  <library name="kotlin-gradle-plugin-idea-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-idea/2.1.10/68dc62267176b4484dcc63973f5887eca4d5ff86/kotlin-gradle-plugin-idea-2.1.10.jar" />
+  </library>
+  <library name="google-http-client-gson-1.42.2.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-gson/1.42.2/863fbfbdb35c203c43cefd9e3cc1e3a7c8e9f51e/google-http-client-gson-1.42.2.jar" />
+  </library>
+  <library name="maven-api-meta-4.0.0-alpha-9.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-api-meta/4.0.0-alpha-9/5d7a76734ec7ccef673dab5d02ed7f8d08a7f11c/maven-api-meta-4.0.0-alpha-9.jar" />
+  </library>
+  <library name="kotlin-build-statistics-2.1.10.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-build-statistics/2.1.10/76cf6afc9b85a2243f93b5adf3277ba70b6dad56/kotlin-build-statistics-2.1.10.jar" />
+  </library>
+  <library name="kotlin-serialization-2.1.10-gradle82.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-serialization/2.1.10/57fafb0877218fbcdc977bc0e73c8485237c875/kotlin-serialization-2.1.10-gradle82.jar" />
+  </library>
+  <library name="groovy-xml-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-xml-3.0.17.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-extensions-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/8.4/generated-gradle-jars/gradle-kotlin-dsl-extensions-8.4.jar" />
+  </library>
+  <library name="kotlin-stdlib-1.9.10.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/kotlin-stdlib-1.9.10.jar" />
+  </library>
+  <library name="groovy-astbuilder-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-astbuilder-3.0.17.jar" />
+  </library>
+  <library name="groovy-nio-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-nio-3.0.17.jar" />
+  </library>
+  <library name="groovy-groovydoc-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-groovydoc-3.0.17.jar" />
+  </library>
+  <library name="groovy-datetime-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-datetime-3.0.17.jar" />
+  </library>
+  <library name="groovy-templates-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-templates-3.0.17.jar" />
+  </library>
+  <library name="groovy-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-3.0.17.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/gradle-kotlin-dsl-8.4.jar" />
+  </library>
+  <library name="gradle-kotlin-dsl-tooling-models-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/gradle-kotlin-dsl-tooling-models-8.4.jar" />
+  </library>
+  <library name="javaparser-core-3.17.0.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/javaparser-core-3.17.0.jar" />
+  </library>
+  <library name="groovy-sql-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-sql-3.0.17.jar" />
+  </library>
+  <library name="gradle-core-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/gradle-core-8.4.jar" />
+  </library>
+  <library name="kotlin-stdlib-common-1.9.10.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/kotlin-stdlib-common-1.9.10.jar" />
+  </library>
+  <library name="groovy-test-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-test-3.0.17.jar" />
+  </library>
+  <library name="gradle-api-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/caches/8.4/generated-gradle-jars/gradle-api-8.4.jar" />
+  </library>
+  <library name="groovy-console-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-console-3.0.17.jar" />
+  </library>
+  <library name="groovy-dateutil-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-dateutil-3.0.17.jar" />
+  </library>
+  <library name="groovy-ant-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-ant-3.0.17.jar" />
+  </library>
+  <library name="groovy-json-3.0.17.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/groovy-json-3.0.17.jar" />
+  </library>
+  <library name="gradle-installation-beacon-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/gradle-installation-beacon-8.4.jar" />
+  </library>
+  <library name="gradle-core-api-8.4.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/gradle-core-api-8.4.jar" />
+  </library>
+  <library name="kotlin-reflect-1.9.10.jar">
+    <archive path="C:/Users/kodex/.gradle/wrapper/dists/gradle-8.4-bin/1w5dpkrfk8irigvoxmyhowfim/gradle-8.4/lib/kotlin-reflect-1.9.10.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:2.1.20">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.1.20/aa8ca79cd50578314f6d1180c47cbe14c0fee567/kotlin-stdlib-2.1.20.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-classic:1.4.14">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.4.14/d98bc162275134cdf1518774da4a2a17ef6fb94d/logback-classic-1.4.14.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-config-yaml-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-config-yaml-jvm/3.1.3/82ebbb50a3870c2eb363dfeff63596552c7e5549/ktor-server-config-yaml-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-netty-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-netty-jvm/3.1.3/a572549ef2e34eab7a034e02683c73d3b49dd19/ktor-server-netty-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-auth-jwt-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-auth-jwt-jvm/3.1.3/71fe03f3a4dfa2c56b78a8306a113c1862c94434/ktor-server-auth-jwt-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-auth-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-auth-jvm/3.1.3/eed3c20e5e513eef81da345d60f2654cb20852c9/ktor-server-auth-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-content-negotiation-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-content-negotiation-jvm/3.1.3/91de9dd42c194b6fccc4e8b09593ff5ce36e33c7/ktor-server-content-negotiation-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-core-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core-jvm/3.1.3/fe59c0964bf32bba16611a3d7f4842677b64c24f/ktor-server-core-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-serialization-kotlinx-json-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-json-jvm/3.1.3/e110d4b68d6af58bd976b69e603dfde31b453d99/ktor-serialization-kotlinx-json-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains:annotations:23.0.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar" />
+  </library>
+  <library name="Gradle: ch.qos.logback:logback-core:1.4.14">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.4.14/4d3c2248219ac0effeb380ed4c5280a80bf395e8/logback-core-1.4.14.jar" />
+  </library>
+  <library name="Gradle: org.slf4j:slf4j-api:2.0.16">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.16/172931663a09a1fa515567af5fbef00897d3c04/slf4j-api-2.0.16.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-codec-http2:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.119.Final/648b066861723b60635bef2047229ed73d0cbd04/netty-codec-http2-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: org.eclipse.jetty.alpn:alpn-api:1.1.3.v20160715">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.alpn/alpn-api/1.1.3.v20160715/a1bf3a937f91b4c953acd13e8c9552347adc2198/alpn-api-1.1.3.v20160715.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport-native-kqueue:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-kqueue/4.1.119.Final/a421ce234f856ff9b84bfd350138523e9ffd70bd/netty-transport-native-kqueue-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport-native-epoll:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.119.Final/c4b9339262b59f4808674d3b4ba4d5c4846921df/netty-transport-native-epoll-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: com.auth0:java-jwt:4.5.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.auth0/java-jwt/4.5.0/d7004155fe57a107cc40fb6be0132d8ad2530613/java-jwt-4.5.0.jar" />
+  </library>
+  <library name="Gradle: com.auth0:jwks-rsa:0.22.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.auth0/jwks-rsa/0.22.1/6da617499e4614b5c22a52cb142dfe376a9a4f00/jwks-rsa-0.22.1.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-reflect:2.1.20">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/2.1.20/3c1003045c4f2a72f987a147abac8e7058be1183/kotlin-reflect-2.1.20.jar" />
+  </library>
+  <library name="Gradle: com.typesafe:config:1.4.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.4.3/b57e0fbdc7270d8ea59c1ba367457a5cc7ba0e98/config-1.4.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.10.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.10.2/4a9f78ef49483748e2c129f3d124b8fa249dafbf/kotlinx-coroutines-core-jvm-1.10.2.jar" />
+  </library>
+  <library name="Gradle: net.mamoe.yamlkt:yamlkt-jvm:0.13.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/net.mamoe.yamlkt/yamlkt-jvm/0.13.0/9c93e3ef80314d6486f6f9be95db8df6bc728d67/yamlkt-jvm-0.13.0.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-codec-http:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.119.Final/23196984df6083cc39bef22a54c6cf5b157f3824/netty-codec-http-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-handler:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.119.Final/a0059b8d779ce566b524efd6d73ba4fcff3cd5d9/netty-handler-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-codec:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.119.Final/337ca8e8c3ef23925e02d56347b414d7616d1d02/netty-codec-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.119.Final/d05df879054297962d056b77460fc4ff20e30073/netty-transport-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-buffer:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.119.Final/5864149b2e5a2af7b05fe9e9dc3e4b70d3060a7c/netty-buffer-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-common:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.119.Final/2f7c360b03c0aceab7efc1f7c2b75274f0f35909/netty-common-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport-classes-kqueue:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-kqueue/4.1.119.Final/e3e70378ab16b97af83b79dc67227299ae20c90/netty-transport-classes-kqueue-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport-native-unix-common:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.119.Final/55afdeb456bccf8eecb06431f3c1537269afe9af/netty-transport-native-unix-common-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-transport-classes-epoll:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.119.Final/1d2d986ae0615d50f5cee338f0e9e73f46e8158/netty-transport-classes-epoll-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.15.4">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.15.4/560309fc381f77d4d15c4a4cdaa0db5025c4fd13/jackson-databind-2.15.4.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-core:2.15.4">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.15.4/aebe84b45360debad94f692a4074c6aceb535fa0/jackson-core-2.15.4.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-sessions-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-sessions-jvm/3.1.3/7f037962df5a6d7ed90ea0a11b2d410b330e852e/ktor-server-sessions-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-client-core-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-jvm/3.1.3/6691d28df87f6a195d6d4f48088b74cb4445d1f4/ktor-client-core-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.8.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-jvm/1.8.1/4de3bace4b175753df5484d2acd74c14bfeb5be9/kotlinx-serialization-json-jvm-1.8.1.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-http-cio-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-cio-jvm/3.1.3/a38e4f73b7ca3fb65acd040d95b0d3dd935505fc/ktor-http-cio-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-serialization-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-jvm/3.1.3/ecdbdd352b01b9bf7ff37d2b41d3c32ee470b58d/ktor-serialization-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-websockets-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websockets-jvm/3.1.3/ba5d56f7ecfd3347b351dcc3bfd519233aaa22b/ktor-websockets-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-http-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-http-jvm/3.1.3/881944d6731e34f5a90e9d9ac3e942f45d41761c/ktor-http-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-events-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events-jvm/3.1.3/ebce4d94edc41cd8ca119da9152af8aa63f706c7/ktor-events-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-utils-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/3.1.3/d2e56dca809c965fa498df86a570fc9ed5b9551f/ktor-utils-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-serialization-kotlinx-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-serialization-kotlinx-jvm/3.1.3/bcea8c228ac519643a977226402addf53fca15d8/ktor-serialization-kotlinx-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-json-io-jvm:1.8.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-io-jvm/1.8.1/de4e31bfc7ddf8585418f8d4fca649feca574cdf/kotlinx-serialization-json-io-jvm-1.8.1.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.0/ed04f49e186a116753ad70d34f0ac2925d1d8020/kotlin-stdlib-jdk8-1.8.0.jar" />
+  </library>
+  <library name="Gradle: io.netty:netty-resolver:4.1.119.Final">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.119.Final/e1f7c90aff71bdf0e2294a200b5f89244f88dcf7/netty-resolver-4.1.119.Final.jar" />
+  </library>
+  <library name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.15.4">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.15.4/5223ea5a9bf52cdc9c5e537a0e52f2432eaf208b/jackson-annotations-2.15.4.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.8.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-jvm/1.8.1/510cb839cce9a3e708052d480a6fbf4a7274dfcd/kotlinx-serialization-core-jvm-1.8.1.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.0/3c91271347f678c239607abb676d4032a7898427/kotlin-stdlib-jdk7-1.8.0.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-websocket-serialization-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-websocket-serialization-jvm/3.1.3/e89460b5597c8cbe0fc22766c6cf6fd25af5326b/ktor-websocket-serialization-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-sse-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-sse-jvm/3.1.3/923aed31a9c222641d0dcb1c793d3c8d03f976a3/ktor-sse-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-network-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-jvm/3.1.3/6c3bc178f66874bf4883dd1ac7e8a92871b02a4f/ktor-network-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-io-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-io-jvm/3.1.3/24be84462406569be2359e5a013a4fa8770a1c0c/ktor-io-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-io-core-jvm:0.7.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-io-core-jvm/0.7.0/1d9595ed390f6304ce90a049e6b2f1fab3b408c4/kotlinx-io-core-jvm-0.7.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-io-bytestring-jvm:0.7.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-io-bytestring-jvm/0.7.0/ffe5bd231da40d21870250703326113277dbf9c3/kotlinx-io-bytestring-jvm-0.7.0.jar" />
+  </library>
+  <library name="Gradle: org.fusesource.jansi:jansi:2.4.1" />
+  <library name="Gradle: com.google.guava:guava:32.1.1-jre" />
+  <library name="Gradle: com.google.guava:failureaccess:1.0.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.guava/failureaccess/1.0.1/1dcf1de382a0bf95a3d8b0849546c88bac1292c9/failureaccess-1.0.1.jar" />
+  </library>
+  <library name="Gradle: com.google.code.findbugs:jsr305:3.0.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar" />
+  </library>
+  <library name="Gradle: org.checkerframework:checker-qual:3.33.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/3.33.0/de2b60b62da487644fc11f734e73c8b0b431238f/checker-qual-3.33.0.jar" />
+  </library>
+  <library name="Gradle: com.google.errorprone:error_prone_annotations:2.18.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.18.0/89b684257096f548fa39a7df9fdaa409d4d4df91/error_prone_annotations-2.18.0.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-slf4j:1.10.2" />
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test-junit:2.1.10">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-junit/2.1.10/9e07a63f152c45e13131310db53b074a4ae4d96f/kotlin-test-junit-2.1.10.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-test-host-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-test-host-jvm/3.1.3/2e8f4161e60081f6c8cc0708a9f325f1f3c983c4/ktor-server-test-host-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-test:2.1.20">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test/2.1.20/551f837fd93f2b9a31419dae722e82b4dad5b06d/kotlin-test-2.1.20.jar" />
+  </library>
+  <library name="Gradle: junit:junit:4.13.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter:5.12.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.12.1/a0abf9f70d0b90f8e1fbf75c6c63d0a9834618e8/junit-jupiter-5.12.1.jar" />
+  </library>
+  <library name="Gradle: org.hamcrest:hamcrest-core:1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-call-logging-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-call-logging-jvm/3.1.3/18f9e49351fb9125191729c9d112f736ba35914f/ktor-server-call-logging-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-server-websockets-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-websockets-jvm/3.1.3/144404725a0cf824dd50b0a142238e01a38e6324/ktor-server-websockets-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-client-cio-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-cio-jvm/3.1.3/7a475976a04a18e5a28aae74c6d1d3bfac32bf3f/ktor-client-cio-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-client-apache-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-apache-jvm/3.1.3/4dd4cc8ed2887bda66711be83690e8d81e2d6e25/ktor-client-apache-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-network-tls-certificates-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-tls-certificates-jvm/3.1.3/155629c21086c0c7e25c83ed18e9665247f466c1/ktor-network-tls-certificates-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-network-tls-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-network-tls-jvm/3.1.3/87db32e3555e59384450316976b1646a1748e8c9/ktor-network-tls-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: io.ktor:ktor-test-dispatcher-jvm:3.1.3">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-test-dispatcher-jvm/3.1.3/78ee66ecf20c85b81d547d7f9e490754f7f9c291/ktor-test-dispatcher-jvm-3.1.3.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-params:5.12.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.12.1/a879b3b05785b66201e30709e7c61662b269cbd1/junit-jupiter-params-5.12.1.jar" />
+  </library>
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-api:5.12.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.12.1/9ed9e01546d4eb0840769b5d0ac7924531e98d7d/junit-jupiter-api-5.12.1.jar" />
+  </library>
+  <library name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.5">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.5/cd18227f1eb8e9a263286c1d7362ceb24f6f9b32/httpasyncclient-4.1.5.jar" />
+  </library>
+  <library name="Gradle: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.2/a231e0d844d2721b0fa1b238006d15c6ded6842a/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Gradle: org.junit.platform:junit-platform-commons:1.12.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.12.1/d34adac31a6974eec6611cc129927a2e2cfe89ee/junit-platform-commons-1.12.1.jar" />
+  </library>
+  <library name="Gradle: org.opentest4j:opentest4j:1.3.0">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.3.0/152ea56b3a72f655d4fd677fc0ef2596c3dd5e6e/opentest4j-1.3.0.jar" />
+  </library>
+  <library name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.15">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.15/85d2b6825d42db909a1474f0ffbd6328429b7a32/httpcore-nio-4.4.15.jar" />
+  </library>
+  <library name="Gradle: org.apache.httpcomponents:httpclient:4.5.13">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.13/e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada/httpclient-4.5.13.jar" />
+  </library>
+  <library name="Gradle: org.apache.httpcomponents:httpcore:4.4.15">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.15/7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d/httpcore-4.4.15.jar" />
+  </library>
+  <library name="Gradle: commons-logging:commons-logging:1.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test-jvm:1.10.2">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test-jvm/1.10.2/deb87732ba15dc455f08af4b120fca0d96d6cb5f/kotlinx-coroutines-test-jvm-1.10.2.jar" />
+  </library>
+  <library name="Gradle: commons-codec:commons-codec:1.11">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.10.2" />
+  <library name="Gradle: net.bytebuddy:byte-buddy:1.10.9" />
+  <library name="Gradle: net.bytebuddy:byte-buddy-agent:1.10.9" />
+  <library name="Gradle: net.java.dev.jna:jna-platform:5.9.0" />
+  <library name="Gradle: net.java.dev.jna:jna:5.9.0" />
+  <library name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.12.1" />
+  <library name="Gradle: org.junit.platform:junit-platform-engine:1.12.1" />
+  <library name="Gradle: org.jetbrains.exposed:exposed-dao:0.41.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-dao/0.41.1/a125d583f35b0611953de7607e1fecffa1bc8685/exposed-dao-0.41.1.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.exposed:exposed-jdbc:0.41.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-jdbc/0.41.1/13aa3881ac29ae4890196d74812cfded1fae4b90/exposed-jdbc-0.41.1.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.exposed:exposed-core:0.41.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-core/0.41.1/9beb750a4ebd55009dc9cb138f62adae21772c65/exposed-core-0.41.1.jar" />
+  </library>
+  <library name="Gradle: org.postgresql:postgresql:42.5.4">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.postgresql/postgresql/42.5.4/15015a54f15e340a9a8a6a2c5457429cb1176b8/postgresql-42.5.4.jar" />
+  </library>
+  <library name="Gradle: org.mindrot:jbcrypt:0.4">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.mindrot/jbcrypt/0.4/af7e61017f73abb18ac4e036954f9f28c6366c07/jbcrypt-0.4.jar" />
+  </library>
+  <library name="Gradle: org.jetbrains.exposed:exposed-java-time:0.41.1">
+    <archive path="C:/Users/kodex/.gradle/caches/modules-2/files-2.1/org.jetbrains.exposed/exposed-java-time/0.41.1/4211022e682c489af30a32085873e096a7582a12/exposed-java-time-0.41.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
