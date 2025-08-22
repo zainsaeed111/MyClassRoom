@@ -13,7 +13,8 @@ data class UserRegisterRequest(
     val userRole: UserRole,
     val organizationName: String? = null,
     val organizationEmail: String? = null,
-    val organizationType: String? = null
+    val organizationType: String? = null,
+    val profilePic: String? = null
 ) {
     init {
         require(fullName.isNotBlank()) { "Full name cannot be blank" }

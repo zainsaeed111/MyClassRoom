@@ -22,6 +22,8 @@ data class User(
     val organizationName: String? = null,
     val organizationEmail: String? = null,
     val organizationType: String? = null,
+    val profilePic: String? = null
+
 
 ) {
     fun withHashedPassword(): User = copy(password = BCrypt.hashpw(password, BCrypt.gensalt()))

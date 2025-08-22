@@ -22,6 +22,6 @@ object UsersTable : Table("users") {
     val startDate = datetime("start_date")
     val endDate = datetime("end_date")
     val isActive = bool("is_active").default(true)
-
+    val profilePic = varchar("profile_pic", 255).nullable()
     override val primaryKey = PrimaryKey(userId)
 }

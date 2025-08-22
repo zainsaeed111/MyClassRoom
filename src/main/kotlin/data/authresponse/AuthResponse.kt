@@ -17,7 +17,8 @@ data class AuthResponse(
     val organizationEmail: String?,
     val organizationType: String?,
     @Serializable(with = LocalDateTimeSerializer::class)
-    val createdAt: LocalDateTime
+    val createdAt: LocalDateTime,
+    val profilePic: String?,
 ) {
     companion object {
         fun toResponse(user: User): AuthResponse = AuthResponse(
@@ -30,6 +31,7 @@ data class AuthResponse(
             organizationName = user.organizationName,
             organizationEmail = user.organizationEmail,
             organizationType = user.organizationType,
+            profilePic = user.profilePic,
             createdAt = user.createdAt ?: LocalDateTime.now(),
         )
     }

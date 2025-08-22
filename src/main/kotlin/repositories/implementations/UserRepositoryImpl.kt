@@ -7,6 +7,7 @@ import com.myclassroom.repositories.repositories.UserRepository
 import org.jetbrains.exposed.sql.insert
 import org.jetbrains.exposed.sql.select
 import tables.UsersTable
+import kotlin.text.set
 
 class UserRepositoryImpl : UserRepository {
 
@@ -26,6 +27,7 @@ class UserRepositoryImpl : UserRepository {
                 it[endDate] = sub.endDate
                 it[isActive] = sub.isActive
             }
+            it[profilePic] = user.profilePic
             it[organizationName] = user.organizationName
             it[organizationEmail] = user.organizationEmail
             it[organizationType] = user.organizationType
@@ -47,6 +49,7 @@ class UserRepositoryImpl : UserRepository {
                     organizationName = row[UsersTable.organizationName],
                     organizationEmail = row[UsersTable.organizationEmail],
                     organizationType = row[UsersTable.organizationType],
+                    profilePic = row[UsersTable.profilePic],
                     subscription = AuthSubscription(
                         plan = row[UsersTable.plan],
                         startDate = row[UsersTable.startDate],
@@ -73,6 +76,7 @@ class UserRepositoryImpl : UserRepository {
                     organizationName = row[UsersTable.organizationName],
                     organizationEmail = row[UsersTable.organizationEmail],
                     organizationType = row[UsersTable.organizationType],
+                    profilePic = row[UsersTable.profilePic],
                     subscription = AuthSubscription(
                         plan = row[UsersTable.plan],
                         startDate = row[UsersTable.startDate],
