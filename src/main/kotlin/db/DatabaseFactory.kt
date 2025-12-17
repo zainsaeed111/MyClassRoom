@@ -11,11 +11,20 @@ import tables.Classrooms
 
 object DatabaseFactory {
     fun init() {
+        var dbUrl = System.getenv("DATABASE_URL")
+        if (dbUrl != null && !dbUrl.startsWith("jdbc:")) {
+            dbUrl = dbUrl.replace("postgres://", "jdbc:postgresql://")
+                .replace("postgresql://", "jdbc:postgresql://")
+        }
+        dbUrl = dbUrl ?: "jdbc:postgresql://localhost:5432/classloom"
+        val dbUser = System.getenv("DB_USER") ?: "postgres"
+        val dbPassword = System.getenv("DB_PASSWORD") ?: "123"
+        
         Database.connect(
-            url = "jdbc:postgresql://localhost:5432/classloom",
+            url = dbUrl,
             driver = "org.postgresql.Driver",
-            user = "postgres",
-            password = "123"
+            user = dbUser,
+            password = dbPassword
         )
         transaction {
             SchemaUtils.createMissingTablesAndColumns(UsersTable)
